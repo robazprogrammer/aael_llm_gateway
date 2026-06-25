@@ -88,5 +88,7 @@ Website: https://NhanceData.com
 
 ---
 
+Security Note: This project uses environment variables for API keys. Never hard-code API keys directly into the script or commit .env files to GitHub.
+
 This repository is part of the growing AAEL Labs collection of open-source educational experiments supporting AI research, learning, and workforce development.
 
